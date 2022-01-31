@@ -1,3 +1,3 @@
 # webdevsummative1
 
-Part one of the summative exam for web dev. Challenge taken from frontend mentor.
+Part one of the summative assessment for web dev. Challenge taken from frontend mentor.
